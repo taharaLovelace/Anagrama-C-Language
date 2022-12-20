@@ -6,10 +6,10 @@
 #define TAM 30
 
 /* Feito por :
-Augusto Guaschi Morato - 22008248
-Hugo Tahara Menegatti - 22000290
-Mattheus Goncalves Anitelli - 22011982
-Vinicius Lara - 22960645
+Augusto Guaschi Morato 
+Hugo Tahara Menegatti 
+Mattheus Goncalves Anitelli
+Vinicius Lara
 */
 
 
@@ -21,7 +21,7 @@ int j=0;
     printf ("=> Forme as palavras com as letras do quadro \n");
     printf ("=> Total de 30 palavras \n");
     printf ("=> 5 tentativas no maximo\n");
-    printf("=> A cada 5 acertos (válidos somente ateh o 15° acerto) voce recebera uma dica!!\n");
+    printf("=> A cada 5 acertos (vÃ¡lidos somente ateh o 15Â° acerto) voce recebera uma dica!!\n");
     printf ("\n\t\t    => Boa Sorte!! <=\n");
     printf ("============================================== \n");
     printf ("\nLetras a serem usadas:\n");
